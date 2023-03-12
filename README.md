@@ -1,10 +1,14 @@
 # learning-concurrency-in-kotlin
 Kotlin 동시성 프로그래밍 스터디
-
-## Member
-@superjisonic
-@danaryu
-@Antaeseon
+<br>
+<br>
+## 👩‍💻🧑‍💻👨‍💻
+`@superjisonic`
+`@danaryu`
+`@antaeseon`
+<br>
+<br>
+## 🪄
 
 ### 3/12
 * ~ Hello, Concurrent World(1장)
