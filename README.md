@@ -3,7 +3,6 @@
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/67534066/230776950-6b29c985-b4aa-4636-92ab-d543343c5701.png">
 
-https://product.kyobobook.co.kr/detail/S000001804930
 <br>
 https://kotlinlang.org/docs/coroutines-basics.html#your-first-coroutine
 <br>
