@@ -2,8 +2,7 @@
 포동팡요즈의 Kotlin 동시성 프로그래밍 스터디
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/67534066/230776950-6b29c985-b4aa-4636-92ab-d543343c5701.png">
-
-<br>
+<br> with.. 
 https://kotlinlang.org/docs/coroutines-basics.html#your-first-coroutine
 <br>
 </br>
