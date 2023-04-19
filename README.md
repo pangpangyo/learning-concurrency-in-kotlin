@@ -16,13 +16,16 @@ https://kotlinlang.org/docs/coroutines-basics.html#your-first-coroutine
 ## 🪄
 
 ### 3/12
-* ~ Hello, Concurrent World(1장)
+- [x] ~ Hello, Concurrent World(1장)
 
 ### 3/19
-* ~ 라이프 사이클과 에러 핸들링(3장)
+- [x] ~ 라이프 사이클과 에러 핸들링(3장)
 
 ### 4/9
-* ~ 일시 중단 함수와 코루틴 컨텍스트(4장)
+- [x] ~ 일시 중단 함수와 코루틴 컨텍스트(4장)  
 
 ### 4/16
-* ~ 이터레이터, 시퀀스 그리고 프로듀서(5장)
+- [ ] ~ 이터레이터, 시퀀스 그리고 프로듀서(5장)
+
+### 4/23
+- [ ] ~ 채널 - 통신을 통한 메모리 공유(6장)
