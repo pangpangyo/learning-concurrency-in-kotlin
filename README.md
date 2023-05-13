@@ -29,3 +29,7 @@ https://kotlinlang.org/docs/coroutines-basics.html#your-first-coroutine
 
 ### 4/23
 - [x] ~ 채널 - 통신을 통한 메모리 공유(6장)
+
+### 5/13
+- [ ] ~ 동시성 코드 테스트와 디버깅(8장)
+ 
